@@ -2,19 +2,17 @@ body{
     margin: 0;
 }
 .menu{
-    height: 20%;
-    display: block;
+    box-sizing: content-box;
+    position: relative;
+    width: 100%;
+    display: inline-block;
     background-color: bisque;
-    
-    
 }
 .menu > img{
     
 }
 .menu > ul{
     display: inline-block;
-    text-align: center;
-    margin: auto 0;
 
     padding: 0;
 }
