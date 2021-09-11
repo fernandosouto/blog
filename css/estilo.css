@@ -32,11 +32,12 @@ body{
 
 /* MEIO */
 #meio{
-    display: flex;
+    /* display: flex; */
     margin: 1% auto;
     border-radius: 5px;
     border:solid 1px red;
     height: 600px;
     width:80%;
     padding: 15px;
+    
 }
